@@ -2,4 +2,4 @@ number = int(input("Enter a number: "))
 if number % 2 == 0:
     print("It's an even number.")
 else:
-    print("It's an odd number.")
+    print("It's an not an even number.")
